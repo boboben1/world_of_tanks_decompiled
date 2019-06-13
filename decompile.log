@@ -1,2 +1,9 @@
+root - INFO - Decompiling files
 root - ERROR - Error occurred decompiling file: scripts\client\AvatarInputHandler\mathUtils.pyc
 root - ERROR - Error occurred decompiling file: scripts\client\gui\Scaleform\framework\managers\containers.pyc
+root - ERROR - Error occurred decompiling file: scripts\client\gui\shared\utils\requesters\ItemsRequester.pyc
+root - ERROR - Error occurred decompiling file: scripts\common\live_crc.pyc
+root - ERROR - Error occurred decompiling file: scripts\common\UnitRoster.pyc
+root - ERROR - Error occurred decompiling file: scripts\common\Lib\Crypto\Util\RFC1751.pyc
+root - WARNING - Decompiling some files failed! Check decompile.log for details
+root - INFO - Moving other files
